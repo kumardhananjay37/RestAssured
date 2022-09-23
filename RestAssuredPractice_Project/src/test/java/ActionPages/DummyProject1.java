@@ -44,6 +44,6 @@ public class DummyProject1 {
         System.out.println(actualTotalAmountForPurchasedCost);
         Assert.assertEquals(expectedPurchagedAmount,actualTotalAmountForPurchasedCost);
 
-        System.out.println("Hello world");
+        System.out.println("Hello wrld");
     }
 }
